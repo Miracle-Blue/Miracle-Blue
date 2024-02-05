@@ -9,7 +9,7 @@ Hi, my name is Ravshan.
 </samp>
 <br /> <br />
 <samp>
-I have over 1 years of commercial experience, I've been involved in various projects of varying size and difficulty. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
+I have over 2 years of commercial experience, I've been involved in various projects of varying size and difficulty. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
 </samp>
 <br /> <br />
 <samp>
