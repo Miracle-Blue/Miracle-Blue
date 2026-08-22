@@ -33,8 +33,3 @@ miracle-blue@github:~$ ./connect --socials
 </p>
 
 <img alt="contribution snake" src="https://raw.githubusercontent.com/Miracle-Blue/Miracle-Blue/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-```console
-miracle-blue@github:~$ exit
-# Everything is an Object? 🍀
-```
