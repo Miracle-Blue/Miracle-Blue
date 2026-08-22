@@ -21,8 +21,10 @@ I have over 4 years of commercial experience, I've been involved in various proj
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 
-[![LeetCode user miracleblue](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmiracleblue&logo=leetcode&logoColor=yellow)](https://leetcode.com/miracleblue/)
-
+<p>
+  <a href="https://leetcode.com/miracleblue/"><img align="middle" alt="LeetCode user miracleblue" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmiracleblue&logo=leetcode&logoColor=yellow"></a>
+  <a href="https://www.codewars.com/users/Miracle-Blue"><img align="middle" height="28" alt="Codewars" src="https://www.codewars.com/users/Miracle-Blue/badges/micro"></a>
+</p>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](#gh-dark-mode-only)
 [![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)](#gh-light-mode-only)
