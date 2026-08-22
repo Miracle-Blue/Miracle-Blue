@@ -1,30 +1,40 @@
-### Flutter Developer
-<a href="https://t.me/miracle_blue"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/miracleblue"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br /> <br />
-<samp>
-Hi, my name is Ravshan.
-</samp>
-<br /> <br />
-<samp>
-I have over 4 years of commercial experience, I've been involved in various projects of varying size and difficulty. I have a solid knowledge of building extensible, supportable and high-performing systems while understanding the business value. I prefer to work as part of a team, but it is also possible for me to work on my own. Focused on results and delivering clean, high-quality code.
-</samp>
-<br /> <br />
-<samp>
+<!-- ═══════════════ VARIANT C · TERMINAL / RETRO ═══════════════ -->
 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Rust](https://img.shields.io/badge/rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=560&lines=miracle-blue%40github%3A~%24+whoami;Ravshan+%C2%B7+Flutter+Developer;miracle-blue%40github%3A~%24+uptime;4%2B+years+in+production;miracle-blue%40github%3A~%24+echo+%24LOCATION;Tashkent%2C+Uzbekistan" alt="terminal typing">
+</p>
+
+```console
+miracle-blue@github:~$ cat about.txt
+
+  Ravshan — Flutter Developer
+  ───────────────────────────
+  4+ years of commercial experience across projects of varying
+  size and difficulty. I build extensible, supportable and
+  high-performing systems while understanding the business value.
+  Team player, solo-capable. Clean code or nothing.
+
+miracle-blue@github:~$ ls ~/skills
+  dart/  flutter/  kotlin/  swift/  rust/  sqlite/  shell/
+
+miracle-blue@github:~$ ls ~/projects
+  thunder/   → network inspector for Dio, real-time monitoring
+  logbook/   → logging package with in-app overlay UI
+  elixir/    → navigation package built on Navigator 2.0
+
+miracle-blue@github:~$ ./connect --socials
+```
 
 <p>
+  <a href="https://t.me/miracle_blue"><img align="middle" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miracleblue"><img align="middle" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/miracleblue/"><img align="middle" alt="LeetCode user miracleblue" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmiracleblue&logo=leetcode&logoColor=yellow"></a>
   <a href="https://www.codewars.com/users/Miracle-Blue"><img align="middle" height="28" alt="Codewars" src="https://www.codewars.com/users/Miracle-Blue/badges/micro"></a>
 </p>
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](#gh-dark-mode-only)
-[![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)](#gh-light-mode-only)
+<img alt="contribution snake" src="https://raw.githubusercontent.com/Miracle-Blue/Miracle-Blue/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+```console
+miracle-blue@github:~$ exit
+# Everything is an Object? 🍀
+```
